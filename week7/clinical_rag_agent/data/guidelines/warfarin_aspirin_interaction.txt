@@ -1,0 +1,4 @@
+Drug interaction guidance for warfarin and aspirin:
+- Combined use may increase bleeding risk.
+- Monitor INR closely and assess for gastrointestinal bleeding symptoms.
+- Escalate care if active bleeding, melena, or hematuria is reported.

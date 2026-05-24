@@ -1,0 +1,4 @@
+Chest pain triage guidance:
+- Severe chest pain with shortness of breath can indicate acute coronary syndrome.
+- Immediate emergency referral is recommended for ongoing pain, diaphoresis, or syncope.
+- Primary care follow-up is acceptable only when red flags are absent.
