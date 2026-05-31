@@ -1,0 +1,205 @@
+ASTHMA CONTROLLER STEP-UP THERAPY GUIDELINE
+Source: GINA (Global Initiative for Asthma) Report 2023 (www.ginasthma.org),
+        NAEPP EPR-3 Guidelines (NIH Publication No. 08-4051),
+        ATS/ERS Task Force on Severe Asthma 2014
+Last Updated: 2023
+
+=============================================================
+SECTION 1: ASTHMA DIAGNOSIS AND CLASSIFICATION
+=============================================================
+
+Diagnostic Criteria:
+1. History of variable respiratory symptoms (wheeze, shortness of breath, 
+   chest tightness, cough — often worse at night/early morning)
+2. Variable expiratory airflow limitation confirmed by:
+   - Spirometry: FEV1/FVC < 0.70 (post-bronchodilator)
+   - Positive bronchodilator reversibility: FEV1 increase ≥ 12% AND ≥ 200 mL after 
+     400 mcg albuterol (salbutamol)
+   - Positive bronchial provocation test (methacholine PC20 < 8 mg/mL)
+   - Peak flow variability > 10% diurnal or > 20% between visits
+
+Asthma Severity Classification (before treatment):
+- Intermittent: Symptoms ≤ 2 days/week, nighttime ≤ 2x/month, FEV1 ≥ 80%
+- Mild Persistent: Symptoms > 2 days/week but not daily, FEV1 ≥ 80%
+- Moderate Persistent: Daily symptoms, nighttime > 1x/week, FEV1 60-80%
+- Severe Persistent: Continuous symptoms, frequent nighttime, FEV1 < 60%
+
+Asthma Control Categories (during treatment):
+Well-Controlled (ALL criteria):
+- Daytime symptoms ≤ 2 days/week
+- Nighttime awakening ≤ 2x/month
+- SABA use ≤ 2 days/week (not for EIB prevention)
+- No activity limitation
+- ACQ-5 score ≤ 0.75; ACT score ≥ 20
+
+Not Well-Controlled (any of):
+- Daytime symptoms > 2 days/week
+- Nighttime awakening > 2x/month
+- SABA use > 2 days/week
+- Some activity limitation
+- ACQ-5 score 0.75-1.5; ACT score 16-19
+
+Very Poorly Controlled:
+- Symptoms throughout the day
+- Nighttime awakening ≥ 4x/week
+- SABA use several times/day
+- Extreme activity limitation
+- ACQ-5 > 1.5; ACT score ≤ 15
+
+=============================================================
+SECTION 2: STEPWISE TREATMENT APPROACH
+=============================================================
+
+STEP 1 — Intermittent Asthma:
+Preferred: As-needed (PRN) low-dose ICS-formoterol (GINA 2023 preferred track)
+  OR PRN SABA alone (if ICS-formoterol unavailable)
+Alternative: Low-dose ICS whenever SABA is used
+
+Medications:
+- Albuterol (salbutamol) MDI 90 mcg/puff: 1-2 puffs PRN (max 8 puffs/day)
+- Budesonide-formoterol 80/4.5 mcg: 1 puff PRN (SMART therapy)
+
+STEP 2 — Mild Persistent Asthma:
+Preferred: Daily low-dose ICS + PRN SABA OR PRN low-dose ICS-formoterol
+Alternative: LTRA (montelukast) + PRN SABA; theophylline + PRN SABA (less preferred)
+
+Low-dose ICS Options:
+- Fluticasone propionate MDI 44 mcg: 1-2 puffs BID
+- Budesonide DPI 180 mcg: 1 puff BID
+- Beclomethasone dipropionate 40-80 mcg: 1-2 puffs BID
+- Ciclesonide 80 mcg: 1 puff daily (once-daily dosing advantage)
+
+LTRA (if ICS not tolerated or refused):
+- Montelukast 10 mg PO daily (evening; FDA black box warning for neuropsychiatric effects)
+
+STEP 3 — Moderate Persistent Asthma:
+Preferred: Low-dose ICS-LABA combination daily + PRN SABA
+            OR Medium-dose ICS daily + PRN SABA
+
+ICS-LABA Combinations:
+- Fluticasone-salmeterol (Advair) 100/50 mcg DPI: 1 puff BID
+- Budesonide-formoterol (Symbicort) 80/4.5 mcg: 1-2 puffs BID
+- Fluticasone-vilanterol (Breo Ellipta) 100/25 mcg: 1 puff daily
+- Mometasone-formoterol (Dulera) 100/5 mcg: 2 puffs BID
+
+LABA SAFETY WARNING:
+- LABA must ALWAYS be used WITH ICS (never as monotherapy in asthma)
+- LABA monotherapy in asthma associated with increased asthma-related death
+
+Medium-dose ICS (Step 3 alternative):
+- Fluticasone propionate MDI 110-220 mcg: 2 puffs BID
+- Budesonide DPI 360 mcg: 2 puffs BID
+
+STEP 4 — Moderate-to-Severe Persistent Asthma:
+Preferred: Medium-to-high dose ICS-LABA + PRN SABA
+Alternative: Medium-dose ICS + LTRA or theophylline
+
+High-dose ICS-LABA:
+- Fluticasone-salmeterol 250/50 mcg or 500/50 mcg DPI: 1 puff BID
+- Budesonide-formoterol 160/4.5 mcg: 2 puffs BID
+- Consider add-on LAMA: Tiotropium (Spiriva Respimat) 2.5 mcg: 2 puffs daily
+
+STEP 5 — Severe Persistent Asthma:
+Preferred: High-dose ICS-LABA + specialist referral for add-on therapy
+
+Add-on Biologic Options (require specialist evaluation):
+1. Anti-IgE: Omalizumab (Xolair) — for allergic asthma, IgE 30-700 IU/mL
+   Dose: 150-375 mg SC every 2-4 weeks based on IgE and weight
+   
+2. Anti-IL-5: Mepolizumab (Nucala) 100 mg SC q4 weeks — eosinophils ≥ 150 cells/mcL
+   Benralizumab (Fasenra) 30 mg SC q4 weeks x3, then q8 weeks
+   
+3. Anti-IL-4/IL-13: Dupilumab (Dupixent) 200-300 mg SC q2 weeks — type 2 inflammation
+   
+4. Anti-TSLP: Tezepelumab (Tezspire) 210 mg SC q4 weeks — broadest eligibility
+
+Oral Corticosteroids (last resort, step 5):
+- Prednisone 7.5-40 mg daily (lowest effective dose)
+- Minimize systemic steroid exposure (osteoporosis, HPA suppression, cataracts)
+- Always attempt steroid-sparing strategies before chronic OCS
+
+=============================================================
+SECTION 3: WHEN TO STEP UP THERAPY
+=============================================================
+
+Indications to Step Up (after confirming):
+1. Confirm poor control is NOT due to:
+   - Poor inhaler technique (most common reason for treatment failure)
+   - Non-adherence to prescribed regimen
+   - Ongoing allergen or irritant exposure (pets, mold, smoke)
+   - Comorbidities worsening control (GERD, rhinitis, obesity, anxiety)
+   - Incorrect diagnosis (VCD, cardiac dyspnea, hyperventilation)
+
+2. If above confirmed, step up therapy:
+   - Not Well-Controlled: Step up 1 level; reassess in 2-6 weeks
+   - Very Poorly Controlled: Consider short oral steroid burst + step up 1-2 levels
+   - Worsening exacerbation: Oral steroid burst, reassess triggers, step up
+
+Step-Up Decision Algorithm:
+[ACT score < 20 OR ACQ > 0.75] → Verify technique and adherence → 
+If adherent + correct technique → Step up therapy
+
+Short-Term Oral Steroid Burst (for acute worsening):
+- Prednisone 40-60 mg/day x 5-7 days (adults)
+- No taper needed for courses < 2 weeks
+- Triggers for burst: ACT < 15, nocturnal symptoms most nights, ER visit
+
+=============================================================
+SECTION 4: ACUTE EXACERBATION MANAGEMENT
+=============================================================
+
+Mild-Moderate Exacerbation (home management):
+- Albuterol 2-4 puffs every 20 minutes x 3 doses, then every 1-4 hours PRN
+- If response incomplete after 1 hour: Oral prednisone 40-60 mg
+- Reassess in 24-48 hours
+
+Severe Exacerbation (Emergency Department):
+- Albuterol 2.5 mg nebulized every 20 minutes x 3 (or MDI 4-8 puffs with spacer)
+- Ipratropium 0.5 mg nebulized with each albuterol treatment x 3 (first hour only)
+- Systemic corticosteroid: Methylprednisolone 125 mg IV OR Prednisone 40 mg PO
+- Oxygen: Titrate SpO2 ≥ 93%
+- Peak flow or FEV1: Assess before and after bronchodilator
+
+Admission Criteria:
+- FEV1 or PEF < 40% predicted after treatment
+- SpO2 < 92% on room air
+- Persistent severe symptoms despite aggressive treatment
+- High-risk features: prior intubation, ICU admission, ≥ 2 hospitalizations/year
+
+Life-Threatening Asthma (ICU):
+- Heliox-driven albuterol nebulization
+- IV magnesium sulfate 2g over 20 minutes (bronchodilator effect)
+- Non-invasive positive pressure ventilation (if no contraindication)
+- Intubation if respiratory failure
+
+=============================================================
+SECTION 5: MONITORING AND FOLLOW-UP
+=============================================================
+
+Routine Follow-Up:
+- Newly initiated therapy: 2-4 weeks
+- After step-up: 4-6 weeks
+- Controlled asthma: Every 3-6 months
+- Annual: Spirometry to reassess lung function trajectory
+
+Inhaler Technique Review (Every Visit):
+- Demonstrate technique at every visit
+- Use spacer/valved holding chamber with MDI (doubles lung deposition)
+- Check: inhaler not empty (dose counter), coordination of actuation-inhalation
+
+Step-Down Considerations:
+- When well-controlled for ≥ 3 months
+- Step down 1 level at a time
+- Monitor closely for loss of control
+- Complete step-down to lowest effective dose
+
+Referral to Pulmonology/Allergy:
+- Step 3-4 not achieving control
+- Frequent exacerbations (≥ 2 OCS courses/year)
+- Suspected occupational asthma
+- Biologics evaluation (Step 5)
+- Difficult-to-treat or severe asthma workup
+
+Disclaimer: This guideline is intended for clinical decision support only.
+Individual patient management must be determined by a licensed clinician.
+Not a substitute for professional medical advice.

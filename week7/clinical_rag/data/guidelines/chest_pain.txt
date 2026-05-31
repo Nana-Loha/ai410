@@ -1,0 +1,145 @@
+CHEST PAIN TRIAGE AND MANAGEMENT GUIDELINE
+Source: ACC/AHA 2021 Chest Pain Guideline (DOI: 10.1161/CIR.0000000000001029)
+Last Updated: 2021
+
+=============================================================
+SECTION 1: INITIAL TRIAGE — EMERGENCY vs NON-EMERGENCY
+=============================================================
+
+Immediate life-threatening causes of chest pain must be ruled out first:
+- Acute Myocardial Infarction (STEMI / NSTEMI)
+- Aortic Dissection
+- Pulmonary Embolism
+- Tension Pneumothorax
+- Cardiac Tamponade
+
+EMERGENCY CRITERIA — Activate Emergency Response Immediately:
+- Chest pain with ST-elevation on ECG → STEMI protocol, target door-to-balloon < 90 minutes
+- Chest pain + hypotension (SBP < 90 mmHg)
+- Chest pain + severe dyspnea + SpO2 < 90%
+- Chest pain + diaphoresis + pallor
+- Chest pain + syncope or near-syncope
+- Chest pain radiating to jaw, left arm, or back with diaphoresis
+
+HIGH-RISK FEATURES (admit for observation):
+- Typical anginal pattern (substernal pressure, exertional, relieved by nitroglycerin)
+- Prior history of CAD, MI, or revascularization
+- TIMI Risk Score ≥ 3
+- HEART Score ≥ 4
+- Elevated troponin (any value above 99th percentile URL)
+- New or presumed new LBBB on ECG
+- Age > 65 with diabetes or hypertension
+
+=============================================================
+SECTION 2: DIAGNOSTIC WORKUP
+=============================================================
+
+Mandatory Initial Workup:
+1. 12-lead ECG within 10 minutes of presentation
+2. High-sensitivity troponin (hs-cTnI or hs-cTnT) at 0h and 1h (or 0h and 3h)
+3. Vital signs: BP (both arms), HR, SpO2, RR, Temperature
+4. IV access, continuous cardiac monitoring, supplemental oxygen if SpO2 < 94%
+5. Chest X-ray (PA and lateral)
+6. Basic metabolic panel, CBC, coagulation studies
+
+Additional workup based on clinical suspicion:
+- D-dimer if PE suspected (Wells score ≥ 2)
+- CT Aortography if aortic dissection suspected (unequal BP, tearing pain)
+- Echocardiogram if pericarditis or tamponade suspected
+- CT Pulmonary Angiography for confirmed PE workup
+
+Troponin Interpretation (hs-Troponin):
+- Baseline < 5 ng/L AND 1h delta < 4 ng/L → Low probability, consider early discharge
+- Baseline ≥ 52 ng/L OR 1h delta ≥ 6 ng/L → High probability ACS, admit
+- Intermediate → 3h serial troponin required
+
+=============================================================
+SECTION 3: RISK STRATIFICATION TOOLS
+=============================================================
+
+HEART Score (validated for ED chest pain):
+H - History: 0 (slightly suspicious), 1 (moderately suspicious), 2 (highly suspicious)
+E - ECG: 0 (normal), 1 (non-specific repolarization), 2 (significant ST deviation)
+A - Age: 0 (<45), 1 (45-65), 2 (>65)
+R - Risk factors: 0 (none known), 1 (1-2 risk factors), 2 (≥3 or atherosclerotic disease)
+T - Troponin: 0 (≤normal limit), 1 (1-3x normal), 2 (>3x normal)
+
+Interpretation:
+- HEART 0-3: Low risk → 0.9-1.7% MACE at 6 weeks → consider early discharge
+- HEART 4-6: Moderate risk → 12-16.6% MACE → observation, serial biomarkers
+- HEART 7-10: High risk → 50-65% MACE → early invasive strategy
+
+TIMI Risk Score for UA/NSTEMI:
+Criteria (1 point each):
+1. Age ≥ 65
+2. ≥ 3 CAD risk factors
+3. Known CAD (stenosis ≥ 50%)
+4. ASA use in past 7 days
+5. Severe angina (≥ 2 episodes in 24h)
+6. ST deviation ≥ 0.5 mm
+7. Positive cardiac marker
+
+Score 0-2: Low risk (5% 14-day event rate)
+Score 3-4: Intermediate risk (13% 14-day event rate)
+Score 5-7: High risk (26-41% 14-day event rate)
+
+=============================================================
+SECTION 4: MANAGEMENT PROTOCOLS
+=============================================================
+
+ACS (NSTEMI/Unstable Angina) Management:
+- Aspirin 325 mg loading dose PO (if no contraindication)
+- P2Y12 inhibitor: Ticagrelor 180 mg OR Clopidogrel 300-600 mg loading
+- Anticoagulation: UFH, Enoxaparin, or Fondaparinux
+- Supplemental O2 only if SpO2 < 90%
+- Nitrates for ongoing ischemic pain (avoid if SBP < 90 or RV infarct)
+- Beta-blocker within 24h if no contraindication (HR > 60, SBP > 100, no HF)
+- High-intensity statin: Atorvastatin 80 mg or Rosuvastatin 40 mg
+
+STEMI Protocol:
+- Primary PCI preferred if door-to-balloon ≤ 120 minutes
+- Fibrinolysis if PCI not available within 120 minutes (door-to-needle < 30 min)
+- Dual antiplatelet therapy: Aspirin + Ticagrelor (preferred) or Clopidogrel
+- Anticoagulation: UFH bolus 60 units/kg (max 4000 units) during PCI
+
+Non-Cardiac Chest Pain (after ACS excluded):
+- GERD: PPI trial (Omeprazole 20-40 mg daily)
+- Musculoskeletal: NSAIDs, rest
+- Anxiety/panic: SSRIs, CBT referral
+- Esophageal spasm: Calcium channel blockers, nitrates
+
+=============================================================
+SECTION 5: DISPOSITION CRITERIA
+=============================================================
+
+Safe for Discharge (all criteria must be met):
+- HEART score 0-3 AND
+- Two serial troponins negative (0h and 1h or 0h and 3h) AND
+- No new ECG changes AND
+- Clinical gestalt low-risk
+
+Requires Observation/Admission:
+- HEART score ≥ 4
+- Any troponin elevation
+- High-risk features on ECG
+- Hemodynamic instability
+
+Requires ICU:
+- STEMI
+- Cardiogenic shock
+- Refractory arrhythmia
+
+=============================================================
+SECTION 6: PATIENT EDUCATION
+=============================================================
+
+Return Precautions (Return to ED immediately if):
+- Chest pain recurs or worsens
+- Shortness of breath develops
+- Palpitations or irregular heartbeat
+- Dizziness or fainting
+- Pain spreads to arm, jaw, or back
+
+Disclaimer: This guideline is intended for clinical decision support only.
+Individual patient management must be determined by a licensed clinician.
+Not a substitute for professional medical advice.

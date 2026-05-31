@@ -1,0 +1,180 @@
+DIABETES MELLITUS — A1C MANAGEMENT AND INDIVIDUALIZATION GUIDELINE
+Source: ADA Standards of Medical Care in Diabetes 2023 (Diabetes Care 2023;46(Suppl 1)),
+        AACE/ACE Comprehensive Diabetes Management Algorithm 2022,
+        EASD/ADA Consensus Report on Management of Hyperglycemia in T2D 2022
+Last Updated: 2023
+
+=============================================================
+SECTION 1: A1C TARGETS AND INDIVIDUALIZATION
+=============================================================
+
+Standard A1C Target: < 7.0% (53 mmol/mol) for most non-pregnant adults
+
+Individualized Targets — More Stringent (< 6.5%):
+- Short duration of diabetes (< 5 years)
+- Long life expectancy
+- No significant CVD
+- No hypoglycemia history
+- High patient motivation and self-management capability
+- Managed with lifestyle ± metformin only (low hypoglycemia risk)
+
+Individualized Targets — Less Stringent (< 8.0%):
+- History of severe hypoglycemia
+- Limited life expectancy (< 5-10 years)
+- Advanced microvascular or macrovascular complications
+- Extensive comorbidities
+- Longstanding diabetes with difficulty achieving target despite multiple agents
+- Frail elderly or cognitive impairment
+- High hypoglycemia unawareness
+
+Key Principle: "Treat to target, not to failure"
+- Any A1C reduction is beneficial
+- Avoid therapeutic inertia (failure to intensify regimen when A1C above target)
+- Reassess target every visit; adjust as patient circumstances change
+
+=============================================================
+SECTION 2: MONITORING PARAMETERS
+=============================================================
+
+A1C Testing Frequency:
+- Every 3 months: If not at goal OR after any treatment change
+- Every 6 months: If stable and at goal
+
+A1C Limitations and Conditions Affecting Accuracy:
+- Falsely HIGH: Iron deficiency anemia, vitamin B12 deficiency, splenectomy
+- Falsely LOW: Hemolytic anemia, blood transfusion, hemoglobinopathies (HbS, HbC)
+- Alternative monitoring in these situations: Fructosamine or glycated albumin
+
+Time in Range (TIR) — CGM Metrics:
+- TIR (70-180 mg/dL): Target ≥ 70% (corresponds approximately to A1C < 7%)
+- TBR (< 70 mg/dL): Target < 4%
+- TBR (< 54 mg/dL): Target < 1%
+- TAR (> 180 mg/dL): Target < 25%
+- TAR (> 250 mg/dL): Target < 5%
+
+Self-Monitoring of Blood Glucose (SMBG):
+- Fasting: 80-130 mg/dL
+- 1-2h postprandial: < 180 mg/dL
+- Bedtime: 90-150 mg/dL
+
+=============================================================
+SECTION 3: PHARMACOLOGICAL MANAGEMENT
+=============================================================
+
+First-Line Therapy:
+METFORMIN (if eGFR ≥ 30 mL/min/1.73m²):
+- Starting dose: 500 mg daily or 500 mg BID with meals
+- Titrate every 1-2 weeks by 500 mg
+- Target dose: 1000 mg BID (maximum 2550 mg/day)
+- Hold: 48h before contrast administration (if eGFR < 60)
+- Hold: If hospitalized, NPO, or critical illness
+- Monitor: B12 levels annually (causes malabsorption)
+- Benefit: Weight neutral, low hypoglycemia risk, reduces CV events (UKPDS)
+
+Second-Line Agents — Selection Based on Comorbidities:
+
+1. GLP-1 RECEPTOR AGONISTS (preferred if ASCVD, obesity, or T2D A1C far above goal):
+   - Semaglutide (Ozempic): 0.5-2 mg SC weekly; or oral 7-14 mg daily
+   - Liraglutide (Victoza): 0.6-1.8 mg SC daily
+   - Dulaglutide (Trulicity): 0.75-4.5 mg SC weekly
+   - Benefits: Weight loss (3-5 kg), CV risk reduction (LEADER, SUSTAIN-6, REWIND)
+   - Contraindication: Personal/family history of MTC, MEN2
+   - Monitor: GI side effects (nausea, vomiting), pancreatitis, thyroid nodules
+
+2. SGLT-2 INHIBITORS (preferred if HF, CKD, or established ASCVD):
+   - Empagliflozin (Jardiance): 10-25 mg daily (with breakfast)
+   - Dapagliflozin (Farxiga): 5-10 mg daily
+   - Canagliflozin (Invokana): 100-300 mg daily
+   - Benefits: HF hospitalization reduction, CKD progression reduction, weight loss
+   - Contraindication: eGFR < 20 (empagliflozin), < 25 (dapagliflozin), < 30 (canagliflozin)
+   - Monitor: UTI, genital mycotic infections, DKA (rare), Fournier gangrene
+   - Withhold before surgery (48-72h due to euglycemic DKA risk)
+
+3. DPP-4 INHIBITORS (preferred if CKD without HF, elderly, low hypoglycemia risk needed):
+   - Sitagliptin (Januvia): 100 mg daily (dose-adjust for eGFR < 45)
+   - Saxagliptin (Onglyza): 2.5-5 mg daily (AVOID in HF — SAVOR-TIMI)
+   - Linagliptin (Tradjenta): 5 mg daily (no renal dose adjustment needed)
+   - Weight neutral, low hypoglycemia, modest A1C lowering (~0.5-0.8%)
+
+4. INSULIN (when A1C significantly above goal or other agents contraindicated):
+   - Basal insulin first: Glargine U-100/U-300, Detemir, Degludec
+   - Start: 10 units SC at bedtime OR 0.1-0.2 units/kg/day
+   - Titrate: Increase by 2 units every 3 days targeting fasting glucose 80-130 mg/dL
+   - Add prandial insulin when A1C remains > 8% on optimized basal
+
+5. SULFONYLUREAS (low cost but higher hypoglycemia risk):
+   - Glipizide XL 5-20 mg daily (preferred in elderly — shorter acting)
+   - Glimepiride 1-8 mg daily
+   - Glyburide — AVOID in elderly (long half-life, highest hypoglycemia risk)
+
+=============================================================
+SECTION 4: HYPOGLYCEMIA MANAGEMENT
+=============================================================
+
+Hypoglycemia Definitions:
+- Level 1 (Alert value): BG < 70 mg/dL — requires treatment
+- Level 2 (Clinically significant): BG < 54 mg/dL — requires urgent treatment
+- Level 3 (Severe): Altered consciousness/seizure requiring third-party assistance
+
+Treatment — Rule of 15:
+1. If conscious: 15g fast-acting carbohydrates
+   - 4 glucose tablets OR 4 oz (120 mL) orange juice OR 6-8 regular gummy candies
+2. Recheck BG in 15 minutes
+3. Repeat if still < 70 mg/dL
+4. Once BG > 70 mg/dL: Eat a small snack if next meal > 1 hour
+
+Severe Hypoglycemia (unconscious/unable to swallow):
+- Glucagon 1 mg IM/SC or intranasal (Baqsimi 3 mg)
+- Call emergency services
+- If IV access: Dextrose 25g (50 mL D50W) IV push
+
+Prevention:
+- Avoid skipping meals while on sulfonylurea or insulin
+- Reduce insulin/sulfonylurea dose before unplanned exercise
+- Adjust for alcohol consumption (inhibits hepatic gluconeogenesis)
+- Annual hypoglycemia education and glucagon prescription for high-risk patients
+
+=============================================================
+SECTION 5: COMPLICATION SCREENING
+=============================================================
+
+Annual Screening (all T2D patients):
+- Diabetic Retinopathy: Dilated eye exam (ophthalmology)
+- Diabetic Nephropathy: Urine ACR + eGFR
+- Diabetic Neuropathy: Monofilament foot exam, vibration testing
+- ASCVD Risk: Lipid panel, BP measurement
+- Thyroid: TSH (T1D and symptomatic)
+
+Foot Care:
+- Comprehensive foot exam at every visit (inspection, monofilament, pulses)
+- Annual: ABI (Ankle-Brachial Index) if symptoms of PAD
+- Podiatry referral: Active ulcer, Charcot foot, prior amputation
+- Patient education: Daily foot inspection, proper footwear, no barefoot walking
+
+Dental Care:
+- Every 6 months (higher risk of periodontal disease)
+
+=============================================================
+SECTION 6: REFERRALS AND CARE TEAM
+=============================================================
+
+Endocrinology Referral Criteria:
+- A1C > 9% despite multiple agents
+- Frequent hypoglycemia or hypoglycemia unawareness
+- Complex insulin regimens
+- T1D management
+- Pregnancy with diabetes
+- Suspected MODY or other monogenic diabetes
+
+MNT (Medical Nutrition Therapy):
+- Refer to registered dietitian (RD) at diagnosis and annually
+- No single "diabetic diet" — individualize carbohydrate intake
+- Mediterranean or low-carbohydrate patterns associated with best outcomes
+
+DSMES (Diabetes Self-Management Education and Support):
+- At diagnosis, annually, and at transitions of care
+- Proven to reduce A1C by 0.6-1.0% and improve quality of life
+
+Disclaimer: This guideline is intended for clinical decision support only.
+Individual patient management must be determined by a licensed clinician.
+Not a substitute for professional medical advice.
