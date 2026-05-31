@@ -1,6 +1,0 @@
-{"id":"q1","query":"Patient has severe chest pain and shortness of breath, what is recommended triage?","expected_source":"chest_pain_triage.txt"}
-{"id":"q2","query":"What should be monitored when a patient takes warfarin with aspirin?","expected_source":"warfarin_aspirin_interaction.txt"}
-{"id":"q3","query":"What follow-up should be done for hypertension management?","expected_source":"hypertension_followup.txt"}
-{"id":"q4","query":"How should A1c management be individualized in type 2 diabetes?","expected_source":"diabetes_a1c_management.txt"}
-{"id":"q5","query":"When should asthma therapy be stepped up?","expected_source":"asthma_controller_stepup.txt"}
-{"id":"q6","query":"What guidance is relevant for migraine prophylaxis in this corpus?","expected_source":"NONE"}
