@@ -91,51 +91,6 @@ We implemented one complete end-to-end user flow: shift report ingestion → sig
 
 **Pipeline ran successfully end-to-end:**
 
-```
-==================================================
-SHIFTNOTES PIPELINE STARTING
-==================================================
-
-2026-06-04 13:09:14 | INFO    | ingest_email          | NODE_ENTRY | run_id=010f96d6
-2026-06-04 13:09:15 | WARNING | ingest_email          | Gmail MCP failed — falling back to CSV
-2026-06-04 13:09:15 | INFO    | ingest_email          | NODE_EXIT  | result=loaded 100 reports
-[ok] Node completed: ingest_email
-
-2026-06-04 13:09:15 | INFO    | classify_intent       | NODE_ENTRY | run_id=010f96d6
-2026-06-04 13:09:15 | INFO    | classify_intent       | NODE_EXIT  | result=intent=signals
-[ok] Node completed: classify_intent
-
-2026-06-04 13:09:15 | INFO    | detect_signals        | NODE_ENTRY | run_id=010f96d6
-2026-06-04 13:09:31 | INFO    | detect_signals        | NODE_EXIT  | result=found signals in 45/100 reports
-[ok] Node completed: detect_signals
-
-2026-06-04 13:09:31 | INFO    | retrieve_and_generate | NODE_ENTRY | run_id=010f96d6
-2026-06-04 13:09:36 | INFO    | retrieve_and_generate | NODE_EXIT  | result=briefing generated
-[ok] Node completed: retrieve_and_generate
-
-2026-06-04 13:09:36 | INFO    | send_briefing         | NODE_ENTRY | run_id=010f96d6
-2026-06-04 13:09:36 | WARNING | send_briefing         | Gmail MCP send failed — falling back to file
-2026-06-04 13:09:36 | INFO    | send_briefing         | Briefing saved to briefings\briefing_20260604_130936_010f96d6.txt
-2026-06-04 13:09:36 | INFO    | send_briefing         | NODE_EXIT  | result=briefing delivered
-[ok] Node completed: send_briefing
-
-2026-06-04 13:09:36 | INFO    | human_review          | NODE_ENTRY | run_id=010f96d6
-[ok] Node entered:   human_review — HITL checkpoint triggered
-
-==================================================
-PIPELINE PAUSED — AWAITING TED'S DECISION
-==================================================
-Ted's options: accept | drill_down | escalate
-Enter Ted's decision: accept
-
-==================================================
-PIPELINE COMPLETE
-==================================================
-Run ID:        010f96d6
-Briefing sent: True
-Ted's decision: accept
-```
-
 ![Pipeline Run Output](screenshots/pipeline_run.png)
 
 **Signal detection results (Node 3 — hybrid regex + HuggingFace):**
